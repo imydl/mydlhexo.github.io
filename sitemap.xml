@@ -7,6 +7,11 @@
     </sitemap>
 
     <sitemap>
+        <loc>https://hexo.imydl.tech/page-sitemap.xml</loc>
+        <lastmod>2018-04-11T05:08:22.259Z</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>https://hexo.imydl.tech/category-sitemap.xml</loc>
         <lastmod>2018-04-10T15:18:43.778Z</lastmod>
     </sitemap>
