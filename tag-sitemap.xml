@@ -100,15 +100,43 @@
     </url>
 
     <url>
-        <loc>https://hexo.imydl.tech/tags/Hexo/</loc>
+        <loc>https://hexo.imydl.tech/tags/Url/</loc>
         <lastmod>2018-04-13T03:23:16.738Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://hexo.imydl.tech/tags/Url/</loc>
-        <lastmod>2018-04-13T03:23:16.738Z</lastmod>
+        <loc>https://hexo.imydl.tech/tags/Hexo/</loc>
+        <lastmod>2018-04-13T09:04:06.196Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hexo.imydl.tech/tags/Coding/</loc>
+        <lastmod>2018-04-13T09:04:06.196Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hexo.imydl.tech/tags/%E6%89%98%E7%AE%A1/</loc>
+        <lastmod>2018-04-13T09:04:06.196Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hexo.imydl.tech/tags/%E5%9B%BD%E5%86%85%E7%94%A8%E6%88%B7/</loc>
+        <lastmod>2018-04-13T09:04:06.196Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hexo.imydl.tech/tags/%E8%AE%BF%E9%97%AE/</loc>
+        <lastmod>2018-04-13T09:04:06.196Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
