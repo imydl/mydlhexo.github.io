@@ -91,7 +91,7 @@
 <meta property="og:site_name" content="明月登楼Hexo博客">
 <meta property="og:description" content="本来本博客是托管在pages.github.io上的，但是众做周知的原因 GitHub 国内访问的速度体验真心是不敢恭维呀，并且pages.github.io还不支持HTTPS，需要借助Nginx反向代理来实现HTTPS，这个又再次延长了博客访问的速度，还是习惯将博客站点放在国内的体验呀。">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-04-13T09:04:06.196Z">
+<meta property="og:updated_time" content="2018-04-13T09:05:20.723Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="本博客正式托管于Coding方便国内用户访问">
 <meta name="twitter:description" content="本来本博客是托管在pages.github.io上的，但是众做周知的原因 GitHub 国内访问的速度体验真心是不敢恭维呀，并且pages.github.io还不支持HTTPS，需要借助Nginx反向代理来实现HTTPS，这个又再次延长了博客访问的速度，还是习惯将博客站点放在国内的体验呀。">
@@ -369,7 +369,7 @@
         <p>本来本博客是托管在pages.github.io上的，但是众做周知的原因 GitHub 国内访问的速度体验真心是不敢恭维呀，并且pages.github.io还不支持HTTPS，需要借助Nginx反向代理来实现HTTPS，这个又再次延长了博客访问的速度，还是习惯将博客站点放在国内的体验呀。</p>
 <a id="more"></a>
 <p>还好 Hexo 支持双托管好像，只需要在 Hexo 站点配置文件_config.yml的托管推送（deploy）配置位置添加一个Coding的项目地址即可实现 GitHub 和 Coding 双托管推送了。</p>
-<figure class="highlight plain"><figcaption><span>https://www.imydl.tech/ty/426.html 测试代码块链接</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">- type: git</span><br><span class="line">  repo: git@github.com:xxxxx/xxxxx.github.io</span><br><span class="line">  branch: master</span><br><span class="line">- type: git                                                                                                 </span><br><span class="line">  repo: git@git.coding.net:xxxx/xxxxx.git</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
+<figure class="highlight less"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">deploy</span>:</span><br><span class="line">- <span class="attribute">type</span>: git</span><br><span class="line">  <span class="attribute">repo</span>: git<span class="variable">@github</span>.<span class="attribute">com</span>:xxxxx/xxxxx.github.io</span><br><span class="line">  <span class="attribute">branch</span>: master</span><br><span class="line">- <span class="attribute">type</span>: git                                                                                                 </span><br><span class="line">  <span class="attribute">repo</span>: git<span class="variable">@git</span>.coding.<span class="attribute">net</span>:xxxx/xxxxx.git</span><br><span class="line">  <span class="attribute">branch</span>: master</span><br></pre></td></tr></table></figure>
 <p>只需要将上述的配置代码里的xxxx改为自己对应的项目名称和链接即可，这样就可以实现 GitHub 和 Coding 双托管推送了。</p>
 <p>将Coding解析给国内线路，GitHub的解析给海外线路，科学合理的分配一下DNS解析线路即可，很科学、很高效外加双保险！是不是很赞呀！嘿嘿。</p>
 
