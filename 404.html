@@ -83,17 +83,15 @@
 
 
 
-<meta name="description" content="草根博客站长明月登楼的Hexo博客站点，学习Hexo的试验田。">
 <meta name="keywords" content="草根,博客,站长,明月登楼,Hexo,Hexo博客,个人博客,博客网站,静态网站,纯静态博客网站">
 <meta property="og:type" content="website">
 <meta property="og:title" content="明月登楼Hexo博客">
-<meta property="og:url" content="https://hexo.imydl.tech/tags/测试/index.html">
+<meta property="og:url" content="https://hexo.imydl.tech/404.html">
 <meta property="og:site_name" content="明月登楼Hexo博客">
-<meta property="og:description" content="草根博客站长明月登楼的Hexo博客站点，学习Hexo的试验田。">
 <meta property="og:locale" content="zh-Hans">
+<meta property="og:updated_time" content="2018-04-13T14:43:36.254Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="明月登楼Hexo博客">
-<meta name="twitter:description" content="草根博客站长明月登楼的Hexo博客站点，学习Hexo的试验田。">
 
 
 
@@ -123,13 +121,13 @@
 
 
 
-  <link rel="canonical" href="https://hexo.imydl.tech/tags/测试/"/>
+  <link rel="canonical" href="https://hexo.imydl.tech/404.html"/>
 
 
 
 
 
-  <title>标签: 测试 | 明月登楼Hexo博客</title>
+  <title> | 明月登楼Hexo博客</title>
   
 
 
@@ -158,7 +156,7 @@
     
   
 
-  <div class="container sidebar-position-right ">
+  <div class="container sidebar-position-right page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -252,54 +250,52 @@
           <div id="content" class="content">
             
 
-  
-  
-  
-  <div class="post-block tag">
+  <div id="posts" class="posts-expand">
+    
+    
+    
+    <div class="post-block page">
+      <header class="post-header">
 
-    <div id="posts" class="posts-collapse">
-      <div class="collection-title">
-        <h1>测试<small>标签</small>
-        </h1>
-      </div>
+	<h1 class="post-title" itemprop="name headline"></h1>
+
+
+
+</header>
 
       
+      
+      
+      <div class="post-body">
         
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <h2 class="post-title">
         
-            <a class="post-title-link" href="/archives/513310110.html" itemprop="url">
-              
-                <span itemprop="name">Hexo博客文章体验测试</span>
-              
-            </a>
-        
-      </h2>
+          <!DOCTYPE HTML>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8;">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta name="robots" content="all">
+        <meta name="robots" content="index,follow">
+	  <link rel="stylesheet" type="text/css" href="https://qzone.qq.com/gy/404/style/404style.css">
+	  </head>
+	  <body>
+	    <script type="text/plain" src="http://www.qq.com/404/search_children.js" charset="utf-8" homepageurl="/" homepagename="回到我的主页">
+				  </script>
+				    <script src="https://qzone.qq.com/gy/404/data.js" charset="utf-8"></script>
+				      <script src="https://qzone.qq.com/gy/404/page.js" charset="utf-8"></script>
+				      </body>
+				      </html>
 
-      <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated"
-              datetime="2018-04-11T16:48:19+08:00"
-              content="2018-04-11" >
-          04-11
-        </time>
+        
       </div>
-
-    </header>
-  </article>
-
-
+      
+      
       
     </div>
-
+    
+    
+    
   </div>
-  
-  
-  
-
-  
 
 
           </div>
@@ -307,6 +303,18 @@
 
 
           
+
+  
+    <div class="comments" id="comments">
+      
+        <div onclick="showGitment()" id="gitment-display-button">显示 Gitment 评论</div>
+        <div id="gitment-container" style="display:none"></div>
+      
+    </div>
+
+  
+
+
 
         </div>
         
@@ -592,6 +600,10 @@
 
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
 
   
 
@@ -643,6 +655,34 @@
       </style>
     
 
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: window.location.pathname, 
+            owner: 'imydl',
+            repo: 'mydlhexo.github.io',
+            
+            lang: "zh-Hans" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+            
+                client_secret: 'a93c0782cf2801f5223a367e6d57a8fd6c616907',
+            
+                client_id: '59b780ad01d98fc0bb8c'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      function showGitment(){
+        document.getElementById("gitment-display-button").style.display = "none";
+        document.getElementById("gitment-container").style.display = "block";
+        renderGitment();
+      }
+      
+      </script>
     
 
 
