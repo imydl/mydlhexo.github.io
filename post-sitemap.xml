@@ -7,6 +7,20 @@
     </url>
 
     <url>
+        <loc>https://hexo.imydl.tech/archives/15999.html</loc>
+        <lastmod>2018-04-16T14:50:20.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://hexo.imydl.tech/images/coding.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
         <loc>https://hexo.imydl.tech/archives/2761.html</loc>
         <lastmod>2018-04-15T07:47:51.614Z</lastmod>
         <changefreq>weekly</changefreq>

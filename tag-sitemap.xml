@@ -23,13 +23,6 @@
     </url>
 
     <url>
-        <loc>https://hexo.imydl.tech/tags/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/</loc>
-        <lastmod>2018-04-13T01:26:12.238Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://hexo.imydl.tech/tags/HTTPS/</loc>
         <lastmod>2018-04-13T01:26:12.238Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -93,22 +86,8 @@
     </url>
 
     <url>
-        <loc>https://hexo.imydl.tech/tags/%E5%8D%9A%E5%AE%A2/</loc>
-        <lastmod>2018-04-13T14:31:36.909Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://hexo.imydl.tech/tags/%E5%A4%A7%E5%8A%9F%E5%91%8A%E6%88%90/</loc>
         <lastmod>2018-04-13T14:31:36.909Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://hexo.imydl.tech/tags/%E6%89%98%E7%AE%A1/</loc>
-        <lastmod>2018-04-14T16:20:06.076Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -123,20 +102,6 @@
     <url>
         <loc>https://hexo.imydl.tech/tags/%E8%AE%BF%E9%97%AE/</loc>
         <lastmod>2018-04-14T16:20:06.076Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://hexo.imydl.tech/tags/Hexo/</loc>
-        <lastmod>2018-04-15T07:47:51.614Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://hexo.imydl.tech/tags/Coding/</loc>
-        <lastmod>2018-04-15T07:47:51.614Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -158,6 +123,48 @@
     <url>
         <loc>https://hexo.imydl.tech/tags/%E5%AE%A1%E6%A0%B8/</loc>
         <lastmod>2018-04-15T07:47:51.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hexo.imydl.tech/tags/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/</loc>
+        <lastmod>2018-04-16T14:50:20.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hexo.imydl.tech/tags/Hexo/</loc>
+        <lastmod>2018-04-16T14:50:20.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hexo.imydl.tech/tags/Coding/</loc>
+        <lastmod>2018-04-16T14:50:20.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hexo.imydl.tech/tags/%E6%89%98%E7%AE%A1/</loc>
+        <lastmod>2018-04-16T14:50:20.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hexo.imydl.tech/tags/GitHub/</loc>
+        <lastmod>2018-04-16T14:50:20.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hexo.imydl.tech/tags/%E5%8D%9A%E5%AE%A2/</loc>
+        <lastmod>2018-04-16T14:50:20.299Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
