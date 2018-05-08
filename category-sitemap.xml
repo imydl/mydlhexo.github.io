@@ -14,13 +14,6 @@
     </url>
 
     <url>
-        <loc>https://hexo.imydl.tech/categories/news/</loc>
-        <lastmod>2018-04-14T16:20:06.076Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://hexo.imydl.tech/categories/new/</loc>
         <lastmod>2018-04-17T07:26:17.790Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -30,6 +23,13 @@
     <url>
         <loc>https://hexo.imydl.tech/categories/hexo/</loc>
         <lastmod>2018-04-24T06:44:14.800Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hexo.imydl.tech/categories/news/</loc>
+        <lastmod>2018-05-08T14:43:33.892Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
