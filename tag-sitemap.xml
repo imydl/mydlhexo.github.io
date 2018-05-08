@@ -149,14 +149,14 @@
     </url>
 
     <url>
-        <loc>https://hexo.imydl.tech/tags/%E6%89%98%E7%AE%A1/</loc>
+        <loc>https://hexo.imydl.tech/tags/GitHub/</loc>
         <lastmod>2018-04-16T14:50:30.187Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://hexo.imydl.tech/tags/GitHub/</loc>
+        <loc>https://hexo.imydl.tech/tags/%E6%89%98%E7%AE%A1/</loc>
         <lastmod>2018-04-16T14:50:30.187Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -199,7 +199,7 @@
 
     <url>
         <loc>https://hexo.imydl.tech/tags/Hexo/</loc>
-        <lastmod>2018-04-24T06:42:20.387Z</lastmod>
+        <lastmod>2018-04-24T06:44:14.800Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
